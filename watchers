@@ -1,0 +1,3 @@
+cd content/assets
+sass --watch scss:css
+coffee --watch -o js/ -c coffee/
